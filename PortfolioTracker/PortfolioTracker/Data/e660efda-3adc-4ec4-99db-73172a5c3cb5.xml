@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"  ?>
+<Portfolio xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <PortfolioOwner>
+    <ClientId>e660efda-3adc-4ec4-99db-73172a5c3cb5</ClientId>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+    <PhoneNumber>415-555-1212</PhoneNumber>
+    <Email>jsmith@someisp.net</Email>
+  </PortfolioOwner>
+  <PortfolioName>Equity Investment Account</PortfolioName>
+  <PortfolioNumber>123456-001</PortfolioNumber>
+  <Positions>
+    <Position>
+      <PositionId type="xs:integer">1</PositionId>
+      <Symbol>KLAC</Symbol>
+      <Quantity type="xs:decimal">1456</Quantity>
+      <PurchasePrice type="xs:decimal">36.05</PurchasePrice>
+      <PurchaseDate type="xs:date">2010-10-20</PurchaseDate>
+    </Position>
+    <Position>
+      <PositionId type="xs:integer">2</PositionId>
+      <Symbol>TREE</Symbol>
+      <Quantity type="xs:decimal">254</Quantity>
+      <PurchasePrice type="xs:decimal">91.22</PurchasePrice>
+      <PurchaseDate type="xs:date">2016-10-20</PurchaseDate>
+    </Position>
+    <Position>
+      <PositionId type="xs:integer">3</PositionId>
+      <Symbol>YHOO</Symbol>
+      <Quantity type="xs:decimal">897</Quantity>
+      <PurchasePrice type="xs:decimal">23.31</PurchasePrice>
+      <PurchaseDate type="xs:date">2012-04-03</PurchaseDate>
+    </Position>
+    <Position>
+      <PositionId type="xs:integer">4</PositionId>
+      <Symbol>KLAC</Symbol>
+      <Quantity type="xs:decimal">431</Quantity>
+      <PurchasePrice type="xs:decimal">46.22</PurchasePrice>
+      <PurchaseDate type="xs:date">2011-03-26</PurchaseDate>
+    </Position>
+    <Position>
+      <PositionId type="xs:integer">5</PositionId>
+      <Symbol>TSLA</Symbol>
+      <Quantity type="xs:decimal">678</Quantity>
+      <PurchasePrice type="xs:decimal">35.33</PurchasePrice>
+      <PurchaseDate type="xs:date">2010-11-21</PurchaseDate>
+    </Position>
+    <Position>
+      <PositionId type="xs:integer">6</PositionId>
+      <Symbol>F</Symbol>
+      <Quantity type="xs:decimal">6456</Quantity>
+      <PurchasePrice type="xs:decimal">10.17</PurchasePrice>
+      <PurchaseDate type="xs:date">2010-05-24</PurchaseDate>
+    </Position>
+  </Positions>
+</Portfolio>

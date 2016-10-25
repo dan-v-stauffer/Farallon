@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Portfolio">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PortfolioOwner">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ClientId" type="xs:string" />
+              <xs:element name="FirstName" type="xs:string" />
+              <xs:element name="LastName" type="xs:string" />
+              <xs:element name="PhoneNumber" type="xs:string" />
+              <xs:element name="Email" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PortfolioName" type="xs:string" />
+        <xs:element name="PortfolioNumber" type="xs:string" />
+        <xs:element name="Positions">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="Position">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="PositionId">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:unsignedByte">
+                            <xs:attribute name="type" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Symbol" type="xs:string" />
+                    <xs:element name="Quantity">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:unsignedShort">
+                            <xs:attribute name="type" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PurchasePrice">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:decimal">
+                            <xs:attribute name="type" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PurchaseDate">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:date">
+                            <xs:attribute name="type" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

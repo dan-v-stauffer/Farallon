@@ -1,0 +1,15 @@
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\PortfolioTracker.exe.config
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\PortfolioTracker.exe
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\PortfolioTracker.pdb
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\obj\Debug\PortfolioTracker.csprojResolveAssemblyReference.cache
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\obj\Debug\PortfolioTracker.Main.resources
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\obj\Debug\PortfolioTracker.Properties.Resources.resources
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\obj\Debug\PortfolioTracker.csproj.GenerateResource.Cache
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\obj\Debug\PortfolioTracker.exe
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\obj\Debug\PortfolioTracker.pdb
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\DataAccess.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\FinanceEngine.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\Newtonsoft.Json.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\DataAccess.pdb
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\FinanceEngine.pdb
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\PortfolioTracker\bin\Debug\Newtonsoft.Json.xml

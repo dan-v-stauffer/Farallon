@@ -1,0 +1,9 @@
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\bin\Debug\FinanceEngine.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\bin\Debug\FinanceEngine.pdb
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\obj\Debug\FinanceEngine.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\obj\Debug\FinanceEngine.pdb
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\bin\Debug\Newtonsoft.Json.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\bin\Debug\Newtonsoft.Json.xml
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\obj\Debug\FinanceEngine.csprojResolveAssemblyReference.cache
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\bin\Debug\DataAccess.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\FinanceEngine\bin\Debug\DataAccess.pdb

@@ -1,0 +1,4 @@
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\DataAccess\bin\Debug\DataAccess.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\DataAccess\bin\Debug\DataAccess.pdb
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\DataAccess\obj\Debug\DataAccess.dll
+C:\dev\dan-v-stauffer\Farallon\PortfolioTracker\DataAccess\obj\Debug\DataAccess.pdb
